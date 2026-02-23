@@ -1,3 +1,4 @@
+<center>
 ### Juan Dantas 
 ____________________________________
 ESTUDANTE DE SISTEMAS DE INFORMAÇÃO
@@ -6,6 +7,6 @@ ESTUDANTE DE SISTEMAS DE INFORMAÇÃO
 📚 Atualmente estudando Python, Java e Banco de Dados  
 ____________________________________
 
-
+</center>
 <!--
 -->
