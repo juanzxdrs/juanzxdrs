@@ -1,7 +1,7 @@
-# <h1>
- Juan Dantas 
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721294.png" width="30">
- </h1>
+# <h2 align="center">
+  👨‍💻 Juan Dantas Reis da Silva
+</h2>
+ 
 ____________________________________
 
 ESTUDANTE DE SISTEMAS DE INFORMAÇÃO
